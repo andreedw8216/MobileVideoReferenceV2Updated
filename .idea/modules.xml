@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MobileVideoReferenceV2Updated.iml" filepath="$PROJECT_DIR$/.idea/modules/MobileVideoReferenceV2Updated.iml" group="MobileVideoReferenceV2Updated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/livechat-testapp/livechat-testapp.iml" filepath="$PROJECT_DIR$/.idea/modules/livechat-testapp/livechat-testapp.iml" group="MobileVideoReferenceV2Updated/livechat-testapp" />
+    </modules>
+  </component>
+</project>

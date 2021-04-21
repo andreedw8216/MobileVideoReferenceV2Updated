@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./livechat-testapp/libs/libwebrtc-1.0.26885.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a163214e9d24c71a3ff1c427e00cbb6/libwebrtc-1.0.26885/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a163214e9d24c71a3ff1c427e00cbb6/libwebrtc-1.0.26885/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a163214e9d24c71a3ff1c427e00cbb6/libwebrtc-1.0.26885/jars/libs/wrtcversion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

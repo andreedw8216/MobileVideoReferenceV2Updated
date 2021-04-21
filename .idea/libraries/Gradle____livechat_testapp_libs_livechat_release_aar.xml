@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: ./livechat-testapp/libs/livechat-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c47f52440c0a06521ff9e407d98cb394/livechat-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c47f52440c0a06521ff9e407d98cb394/livechat-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
